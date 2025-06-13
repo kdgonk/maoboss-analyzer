@@ -1,3 +1,3 @@
 # MaoBoss Analyzer
 
-分析海鷹 Excel 數據、分類競爭力、手動採購欄位與匯出。部署方式：GitHub Pages。
+清爽專案：不含 node_modules，可部署至 GitHub Pages
