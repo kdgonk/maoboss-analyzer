@@ -1,3 +1,3 @@
-# MaoBoss Analyzer
+# MaoBoss Analyzer (Fixed)
 
-清爽專案：不含 node_modules，可部署至 GitHub Pages
+修正 Vite entry 問題，支援 GitHub Pages 部署。

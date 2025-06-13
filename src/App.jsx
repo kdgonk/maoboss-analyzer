@@ -38,7 +38,7 @@ export default function App() {
   return (
     <div className="p-4">
       <h1 className="text-2xl font-bold mb-4">📊 MaoBoss Analyzer</h1>
-      <p>功能建構中：這裡會有 Excel 上傳、SKU 分析、競爭力建議與匯出。</p>
+      <p>這是主頁區塊，登入成功後你會看到上傳功能、SKU 表格、分類分析等。</p>
     </div>
   );
 }
