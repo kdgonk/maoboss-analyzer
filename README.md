@@ -1,3 +1,3 @@
-# MaoBoss Analyzer (Fixed)
+# MaoBoss Analyzer
 
-修正 Vite entry 問題，支援 GitHub Pages 部署。
+支援多檔 Excel 合併、SKU 採購欄位輸入的前端介面
